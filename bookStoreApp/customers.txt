@@ -1,0 +1,9 @@
+user,user2,5000
+bubble,abcs,5000
+user1,user1,8215
+genie,genie,40000
+kiwi,kiwi,0
+jene,jene,5500
+test,admin,0
+test2,test,800
+test3,test,800
